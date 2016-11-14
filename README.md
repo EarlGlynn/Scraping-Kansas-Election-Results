@@ -1,5 +1,5 @@
 # Scraping-Kansas-Election-Results
-Screen scraping Kansas statewide election results to produce maps not provided by Kansas Secretary of State
+This project shows how to screen scrape Kansas statewide election results to produce tables and maps not provided by Kansas Secretary of State.
 
 The Kansas Secretary of State publishes election results online but for some reason does not produce statewide summaries of judicial retention or constitutional amendment contests.
 
