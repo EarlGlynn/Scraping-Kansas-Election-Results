@@ -19,9 +19,11 @@ This process will no longer be necessary when the Kansas Secretary of State's Of
 
 The tables and maps show that 4 of the 5 justices up for retention elections this year lost in ~60 of the 105 counties, even though all won the statewide contest.
 
-The 2016 results for Chief Justice Lawton Nuss:
+Selected 2016 results:
 
-![Lawton Nuss Retention Map](Map-Map-Nuss.png)
+Chief Justice Lawton Nuss
 
-![Lawton Nuss Retention Table](Table-Lawton-Nuss-2016.csv)
+![Lawton Nuss Retention Map](https://github.com/EarlGlynn/Scraping-Kansas-Election-Results/blob/master/Map-Nuss.png)
+
+![Lawton Nuss Retention Table](https://github.com/EarlGlynn/Scraping-Kansas-Election-Results/blob/master/Table-Lawton-Nuss-2016.csv)
 
