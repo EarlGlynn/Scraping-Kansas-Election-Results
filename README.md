@@ -15,7 +15,7 @@ The **ScreenScrape.R** script was updated for the 2016 election.  The script "vi
 
 The **StatewideStats.R** script reads the election results and extracts information for the judicial retention and constitutional amendment questions.  Summary tables and maps are then created.
 
-This process will no longer be necessary when the Kansas Secretary of State's Office enables "View Map" options online for the judicial retention contests like already available in other statewide races.
+This process will no longer be necessary when the Kansas Secretary of State's Office enables "View Map" options online for the judicial retention contests already available in other statewide races.
 
 The tables and maps show that 4 of the 5 justices up for retention elections this year lost in ~60 of the 105 counties, even though all won the statewide contest.
 
