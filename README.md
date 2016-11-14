@@ -25,5 +25,3 @@ Chief Justice Lawton Nuss
 
 ![Lawton Nuss Retention Map](https://github.com/EarlGlynn/Scraping-Kansas-Election-Results/blob/master/Map-Nuss.png)
 
-![Lawton Nuss Retention Table](https://github.com/EarlGlynn/Scraping-Kansas-Election-Results/blob/master/Table-Lawton-Nuss-2016.csv)
-
